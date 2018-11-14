@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCartMicroservice", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCartMicroservice.Tests", "ShoppingCartMicroservice.Tests\ShoppingCartMicroservice.Tests.csproj", "{47AA6DD0-61CF-4491-B12E-C4BC6261E571}"
 EndProject
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "ShoppingCartMicroservice.Deploy", "ShoppingCartMicroservice.Deploy\ShoppingCartMicroservice.Deploy.deployproj", "{1CEEFF2B-E9C6-4DF9-921F-703685F42E5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{47AA6DD0-61CF-4491-B12E-C4BC6261E571}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47AA6DD0-61CF-4491-B12E-C4BC6261E571}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47AA6DD0-61CF-4491-B12E-C4BC6261E571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CEEFF2B-E9C6-4DF9-921F-703685F42E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CEEFF2B-E9C6-4DF9-921F-703685F42E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CEEFF2B-E9C6-4DF9-921F-703685F42E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CEEFF2B-E9C6-4DF9-921F-703685F42E5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
