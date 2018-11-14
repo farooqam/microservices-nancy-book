@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCartMicroservice", "ShoppingCartMicroservice\ShoppingCartMicroservice.csproj", "{93CCA44C-879D-4DA5-A982-8F7641FA81A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCartMicroservice.Tests", "ShoppingCartMicroservice.Tests\ShoppingCartMicroservice.Tests.csproj", "{47AA6DD0-61CF-4491-B12E-C4BC6261E571}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93CCA44C-879D-4DA5-A982-8F7641FA81A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93CCA44C-879D-4DA5-A982-8F7641FA81A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93CCA44C-879D-4DA5-A982-8F7641FA81A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93CCA44C-879D-4DA5-A982-8F7641FA81A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47AA6DD0-61CF-4491-B12E-C4BC6261E571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47AA6DD0-61CF-4491-B12E-C4BC6261E571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47AA6DD0-61CF-4491-B12E-C4BC6261E571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47AA6DD0-61CF-4491-B12E-C4BC6261E571}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17AB2BDC-A6BB-4BE0-A03E-3F12AEB5E95E}
+	EndGlobalSection
+EndGlobal
